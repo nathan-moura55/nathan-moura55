@@ -9,6 +9,7 @@
 - 🚀💻🔧 Desenvolvedor Full Stack Jr.
 
 ![nathan-moura55 GitHub stats](https://github-readme-stats.vercel.app/api?username=nathan-moura55&show_icons=true&theme=dark)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathan-moura55&layout=compact&theme=dark)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
