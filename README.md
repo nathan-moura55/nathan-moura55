@@ -2,9 +2,9 @@
 
 - 📍 MG / Brasil
 
-- 🌱 constante evolução.
+- 🌱 Constante evolução.
 
-- 📚 estudante de análise e desenvolvimento de sistemas.
+- 📚 Estudante de análise e desenvolvimento de sistemas.
 
 - 🚀💻🔧 Desenvolvedor Full Stack Jr.
 
