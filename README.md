@@ -1,25 +1,43 @@
-## Olá eu sou o Nathan de Moura! 👋
+<h2 align="center">Olá eu sou o Nathan de Moura! 👋</h2>
 
-- 📍 MG / Brasil
+###
 
-- 🌱 Constante evolução.
+<p align="center">📍 MG / Brasil<br><br>🌱 Constante evolução.<br><br>📚 Estudante de análise e desenvolvimento de sistemas.<br><br>🚀💻🔧 Desenvolvedor Full Stack Jr.</p>
 
-- 📚 Estudante de análise e desenvolvimento de sistemas.
+###
 
-- 🚀💻🔧 Desenvolvedor Full Stack Jr.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nathan-moura55&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nathan-moura55&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="184" alt="languages graph"  />
+</div>
 
-![nathan-moura55 GitHub stats](https://github-readme-stats.vercel.app/api?username=nathan-moura55&show_icons=true&theme=dark)
+###
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathan-moura55&layout=compact&theme=dark)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+</div>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-### Confira aqui 👇
+###
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-de-moura-0ba264201/) 
-<br><br>
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-<br><br>
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nathan-moura55/nathan-moura55/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nathan-moura55/nathan-moura55/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nathan-moura55/nathan-moura55/output/pacman-contribution-graph.svg">
+</picture>
+
+###
