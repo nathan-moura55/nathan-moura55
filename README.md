@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">📍 MG / Brasil<br><br>🌱 Constante evolução.<br><br>📚 Estudante de análise e desenvolvimento de sistemas.<br><br>🚀💻🔧 Desenvolvedor Full Stack Jr.</p>
+<p align="center">📍 MG / Brasil<br><br>🌱 Constante evolução.<br><br>🚀💻🔧 Desenvolvedor Full Stack Jr.<br><br>📚 Estudante de análise e desenvolvimento de sistemas.</p>
 
 ###
 
