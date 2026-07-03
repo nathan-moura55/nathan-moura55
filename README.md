@@ -3,7 +3,7 @@
 ###
 
 <h3 align="left">👩‍💻 Sobre mim:<br><br></h3>
-<p align="left">📍 MG / Brasil<br><br>🌱 Constante evolução.<br><br>🚀💻🔧 Desenvolvedor Full Stack Jr.<br><br>📚 Estudante de análise e desenvolvimento de sistemas.</p>
+<p align="left">📍 MG / Brasil<br><br>🌱 Constante evolução.<br><br>- Desenvolvimento<br><br>- Análise de dados</p>
 
 ###
 
